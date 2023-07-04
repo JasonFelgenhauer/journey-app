@@ -2,7 +2,8 @@
 
 # Journey App
 
-I created this application to know when I can leave the office :p
+I created this application to know when I can leave the office :pOverall, it's an 8-hour counter (configurable in main.py on line 15).
+You can pause and resume. When the counter is finished, a notification tells you it's time to go home :)
 
 ## Get the project
 
