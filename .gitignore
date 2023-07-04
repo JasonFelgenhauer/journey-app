@@ -1,0 +1,6 @@
+# Virtual Environments
+
+/Include/
+/Lib/
+/Scripts/
+/pyvenv.cfg
